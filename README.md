@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecommerce-Website-College-Project
 Final Year Project for students as Ecommerce website especially different webpages. Top class Website Development project that made by combination of front end programming languages such as HTML, CSS &amp; JS.
 
@@ -40,3 +41,7 @@ If you Like Idea/ Research Paper/Project then Mail or Click on Star buttonðŸ™ðŸ
 **This is Open Source Web development Project**
 
 ### Web Development Projects Playlist : https://youtube.com/playlist?list=PL5g-9zkOohaFVr4-D344gUd-2vGMot-18
+=======
+# Eranna-Ecommerce-Website
+A responsive Ecommerce Website developed using HTML, CSS, and JavaScript featuring product browsing, shopping cart functionality, and checkout interface. This project demonstrates frontend development skills and user interface design.
+>>>>>>> 19c4421a04193c471c6a9b0ee0776b6e99af8216
